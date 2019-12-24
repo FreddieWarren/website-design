@@ -1,0 +1,9 @@
+@import "home.css";
+
+body {
+  background: #e6ecf0;
+  color: #14171a;
+  font-size: 14px;
+  line-height: 20px;
+  overflow-y: scroll;
+}
